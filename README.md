@@ -1,2 +1,2 @@
 # jenkins-test
-intro to jenkins
+Pipeline CI/CD deployement 
